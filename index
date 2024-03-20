@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Supercar Modifications</title>
+</head>
+
+<body>
+  <header>
+    <h1>CoUnT KoUsToMs</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="login.html">Login</a></li>
+        <li><a href="signup.html">Sign Up</a></li>
+      </ul>
+    </nav>
+  </header>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0" />
+    <style>
+        body {
+            text-align: center;
+        }
+ 
+        .image-container img {
+            transition: transform 0.3s ease-in-out;
+        }
+ 
+        .image-container img:hover {
+            transform: scale(1.2);
+        }
+    </style>
+</head>
+  <main>
+    <section id="home">
+      <h2>Welcome to CoUnT KoUsToMs</h2>
+      <p>Discover the best modifications for your supercar to enhance performance and style.</p>
+      <div class="image-container">	
+      <img src="D:\download (1).jpg">
+      </div>	
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Supercar Modifications</p>
+  </footer>
+
+</body>
+
+</html>
